@@ -1,0 +1,10 @@
+framework module ChartsTV {
+  umbrella header "ChartsTV.h"
+
+  export *
+  module * { export * }
+}
+
+module ChartsTV.__Swift {
+    exclude header "ChartsTV-Swift.h"
+}

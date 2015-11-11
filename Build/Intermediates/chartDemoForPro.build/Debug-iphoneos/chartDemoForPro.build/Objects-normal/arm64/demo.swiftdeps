@@ -1,0 +1,24 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+provides-dynamic-lookup:
+depends-top-level:
+depends-member:
+depends-nominal:
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode7.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/lefukeji/Desktop/content/chartDemoForPro/chartDemoForPro/chartDemoForPro-Bridging-Header.h"
+- "/Applications/Xcode7.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode7.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode7.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode7.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode7.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode7.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode7.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Users/lefukeji/Desktop/content/chartDemoForPro/Build/Products/Debug-iphoneos/Charts.framework/Modules/Charts.swiftmodule/arm64.swiftmodule"
+- "/Users/lefukeji/Desktop/content/chartDemoForPro/Build/Products/Debug-iphoneos/Charts.framework/Headers/Charts-Swift.h"
+- "/Users/lefukeji/Desktop/content/chartDemoForPro/Build/Products/Debug-iphoneos/Charts.framework/Headers/Charts.h"
+- "/Users/lefukeji/Desktop/content/chartDemoForPro/Build/Products/Debug-iphoneos/Charts.framework/Modules/module.modulemap"
+interface-hash: "5bf39d8b5f0094ca83c744a0da4fb204"
